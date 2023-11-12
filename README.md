@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a junior Computer Science student on a missio
 - **Node.js:** Leveraging the power of Node to tie togeather a full project
 - **Cloud Architecture:** Deep diving into [Google Cloud](https://cloud.google.com/) in order to deploy highly scalable and resilient applications.
 
-### 💞️ I’m looking to collaborate on:
+### 🤝 I’m looking to collaborate on:
 - Open source projects that aim to make a positive impact.
 - Innovative ideas that push the boundaries of technology.
 - Challenges that require creative problem-solving skills.
